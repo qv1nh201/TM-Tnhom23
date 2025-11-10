@@ -1,0 +1,7 @@
+Bỏ qua thư mục node_modules
+
+node_modules
+
+Bỏ qua file .env (vì nó chứa mật khẩu/bí mật)
+
+.env
